@@ -1,5 +1,5 @@
 # Arctic-vs-Antarctic-Sea-Ice-Extent-Over-Time
-A visual comparison of Arctic vs Antarctic Sea Ice Extent
+A visual comparison of Arctic vs Antarctic Sea Ice Extent over time.
 
 In the accompanying jupyter notebook, Arctic and Antarctic sea ice extent over time is explored to determine if the Antarctic is also experiencing a decrease (as observed in the Arctic). 
 
